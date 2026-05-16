@@ -1,0 +1,10 @@
+# autor: dudinha
+# projeto: coondicionais
+
+# definição das variáveis 
+nome = input ("digite seu nome :")
+temperatura = float(input("digite a temperatura: "))
+if temperatura >= 20:
+   print("a temperatura esta agradavel")
+else:
+   print("a temperatura ta fria")

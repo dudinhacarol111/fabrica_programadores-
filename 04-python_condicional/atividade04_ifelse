@@ -1,0 +1,12 @@
+# autor: dudinha
+# projeto: coondicionais
+
+# definição das variáveis 
+nome = input ("digite seu nome :")
+idade = float (input("digite sua idade: "))
+cidade = input ("digite sua cidade: ")
+cnh = input ("você possui carteira de motorista:")
+if cnh == "sim" :
+   print("possui carteira de motorista!")
+else:
+   print("não possui carteira de motorista!")
